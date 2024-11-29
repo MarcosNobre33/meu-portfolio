@@ -1,0 +1,20 @@
+body {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.custom-heading {
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+.foto {
+  width: 30%;
+  margin-top: 20px;
+}
+
+
